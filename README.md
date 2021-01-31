@@ -1,4 +1,4 @@
-# P-ginas-de-vendas
+# Pagina de Vendas
 um projetinho básico pra ir aprimorando meu HTML e CSS
 
 
